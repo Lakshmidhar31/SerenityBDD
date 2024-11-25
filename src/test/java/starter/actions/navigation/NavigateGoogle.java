@@ -7,6 +7,6 @@ public class NavigateGoogle extends UIInteractions {
 
     @Step("Navigated to Google")
     public void navigateG(){
-        openUrl("https://www.google.com/");
+        openUrl("https://www.fitpeo.com/home");
     }
 }
